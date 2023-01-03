@@ -1,0 +1,2 @@
+# MachiKania-BDFFNT
+BDFフォーマットのフォントデータからPCGを設定するクラス
