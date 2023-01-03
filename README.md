@@ -1,7 +1,7 @@
 # MachiKania-BDFFNT
 BDFフォーマットのフォントデータからPCGを設定するクラス
 
-MachiKania上で動作する、FontEdit (http://www.vector.co.jp/soft/winnt/prog/se513740.html)を使って生成したBDFファイルを読み取って、PCGヘ設定するクラス。<BR>
+MachiKania上で動作する、FontEdit <http://www.vector.co.jp/soft/winnt/prog/se513740.html> を使って生成したBDFファイルを読み取って、PCGヘ設定するクラス。<BR>
 <BR>
 FontEditの「Name」に16進数で対応する文字コードを指定する。<BR>
 ![image](https://user-images.githubusercontent.com/62051355/210295932-831460ec-e95e-4b98-b068-d7618574ad80.png)
